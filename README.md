@@ -38,5 +38,3 @@ mutation {
 }
 ```
 
-# License
-MIT
